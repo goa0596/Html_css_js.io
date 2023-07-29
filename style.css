@@ -1,0 +1,27 @@
+.pag{
+    width: 100%;
+    background-image: url(images/background.png);
+    min-height: 100vh;
+    background-position: center;
+    background-size:cover ;
+    padding: 10px 10%;
+    overflow: hidden;
+
+
+}
+
+.logo{
+    width: 100px;
+    height: 60px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav ul li{
+    margin: 10px;
+    display: inline-block;
+}
